@@ -1,0 +1,81 @@
+
+{
+ "status": 200,
+ "message": "Request successful",
+ "data": {
+        "Acetaldehyde": {
+            "OMxxxA001": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetaldehyde_OMxxxA001.jpg"
+            },
+            "OMxxxA511": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetaldehyde_OMxxxA511.jpg"
+            },
+            "OMxxxA003": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetaldehyde_OMxxxA003.jpg"
+            },
+            "OMxxxS001": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetaldehyde_OMxxxS001.jpg"
+            }
+        },
+        "Acetamide": {
+            "OMxxxA001": {
+                "compatibility": "N",
+                "image": "https://api.example.com/images/acetamide_OMxxxA001.jpg"
+            },
+            "OMxxxA511": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetamide_OMxxxA511.jpg"
+            },
+            "OMxxxA003": {
+                "compatibility": "X",
+                "image": "https://api.example.com/images/acetamide_OMxxxA003.jpg"
+            },
+            "OMxxxS001": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetamide_OMxxxS001.jpg"
+            }
+        },
+        "Acetate Solvent": {
+            "OMxxxA001": {
+                "compatibility": "N",
+                "image": "https://api.example.com/images/acetate_solvent_OMxxxA001.jpg"
+            },
+            "OMxxxA511": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetate_solvent_OMxxxA511.jpg"
+            },
+            "OMxxxA003": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetate_solvent_OMxxxA003.jpg"
+            },
+            "OMxxxS001": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetate_solvent_OMxxxS001.jpg"
+            }
+        },
+        "Acetic Acid": {
+            "OMxxxA001": {
+                "compatibility": "N",
+                "image": "https://api.example.com/images/acetic_acid_OMxxxA001.jpg"
+            },
+            "OMxxxA511": {
+                "compatibility": "R",
+                "image": "https://api.example.com/images/acetic_acid_OMxxxA511.jpg"
+            },
+            "OMxxxA003": {
+                "compatibility": "N",
+                "image": "https://api.example.com/images/acetic_acid_OMxxxA003.jpg"
+            },
+            "OMxxxS001": {
+                "compatibility": "N",
+                "image": "https://api.example.com/images/acetic_acid_OMxxxS001.jpg"
+            }
+        }
+        // Add more chemicals and their compatibility data as needed
+    }
+}
+    
